@@ -1,0 +1,40 @@
+/* colours */
+/* Global */
+.btn--main {
+  padding: 10px 10px;
+  background-color: #414141;
+  color: #ffffff;
+  margin: 0 0 15px 0;
+  display: block; }
+
+.marginTop100 {
+  margin-top: 100px; }
+
+.marginTop50 {
+  margin-top: 50px; }
+
+/* Home View */
+.homeheading {
+  margin: 150px 0 0 0; }
+
+.homebtns {
+  margin: 75px 0 0 0; }
+
+/* TopBar View */
+header {
+  background-color: #8f3e97;
+  height: 50px; }
+
+.topBarHeading {
+  background-color: #8a5093 !important;
+  height: 50px; }
+  .topBarHeading span {
+    color: #ffffff;
+    line-height: 50px;
+    font-size: 20px; }
+
+/* Registration Page */
+.form-group {
+  margin-bottom: 25px !important; }
+
+/*# sourceMappingURL=styles.css.map */

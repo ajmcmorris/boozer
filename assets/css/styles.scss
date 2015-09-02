@@ -1,0 +1,46 @@
+/* colours */
+$grey : #414141;
+$white : #ffffff;
+$purple : #8f3e97;
+$lightpurple : #8a5093;
+
+/* Global */
+.btn--main{
+	padding: 10px 10px;
+	background-color: $grey;
+	color: $white;
+	margin: 0 0 15px 0;
+	display: block;
+}
+.marginTop100{
+	margin-top: 100px;
+}
+.marginTop50{
+	margin-top: 50px;
+}
+/* Home View */
+.homeheading{
+	margin: 150px 0 0 0;
+}
+.homebtns{
+	margin: 75px 0 0 0;
+}
+
+/* TopBar View */
+header{
+	background-color: $purple;
+	height: 50px;
+}
+.topBarHeading{
+	background-color: $lightpurple !important;
+	height: 50px;
+	span{
+		color: $white;
+		line-height: 50px;
+		font-size: 20px;
+	}
+}
+/* Registration Page */
+.form-group{
+	margin-bottom: 25px !important;
+}
